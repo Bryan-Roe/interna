@@ -14,3 +14,4 @@ jobs:
     - uses: actions/labeler@v4
       with:
         repo-token: "${{ secrets.GITHUB_TOKEN }}"
+[![.github/workflows/labeler.yml](https://github.com/Bryan-Roe/interna/actions/workflows/labeler.yml/badge.svg?branch=main)](https://github.com/Bryan-Roe/interna/actions/workflows/labeler.yml)
