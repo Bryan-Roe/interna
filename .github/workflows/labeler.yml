@@ -1,7 +1,6 @@
 - name: Labeler
   uses: actions/labeler@v4.0.0
 
-
 jobs:
   label:
 
